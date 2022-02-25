@@ -1,10 +1,11 @@
-<img width="100" src="https://flatpak.org/img/logo-5bc540c2.svgz">
+<div align=center><img width="100" src="https://flatpak.org/img/logo-5bc540c2.svgz"></div>
+
 
 ### The Future Of Apps On Linux
 
 [Flatpak](https://flatpak.org/) is a next-generation technology for building and distributing desktop applications on Linux
 
-<img width="400" src="https://flatpak.org/img/delivery_truck2-bb72338f.png">
+<div align=center><img width="400" src="https://flatpak.org/img/delivery_truck2-bb72338f.png"></div>
 
 #### [Flathub](https://flathub.org/home)—An app store and build service for Linux. 
 
